@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_color-display/static/css/main.4a1544cd.css",
-    "main.js": "/react_color-display/static/js/main.c51e2747.js",
-    "static/js/496.f531e3af.chunk.js": "/react_color-display/static/js/496.f531e3af.chunk.js",
-    "index.html": "/react_color-display/index.html",
-    "main.4a1544cd.css.map": "/react_color-display/static/css/main.4a1544cd.css.map",
-    "main.c51e2747.js.map": "/react_color-display/static/js/main.c51e2747.js.map",
-    "496.f531e3af.chunk.js.map": "/react_color-display/static/js/496.f531e3af.chunk.js.map"
+    "main.css": "/color-display/static/css/main.4a1544cd.css",
+    "main.js": "/color-display/static/js/main.8e986cfe.js",
+    "static/js/496.f531e3af.chunk.js": "/color-display/static/js/496.f531e3af.chunk.js",
+    "index.html": "/color-display/index.html",
+    "main.4a1544cd.css.map": "/color-display/static/css/main.4a1544cd.css.map",
+    "main.8e986cfe.js.map": "/color-display/static/js/main.8e986cfe.js.map",
+    "496.f531e3af.chunk.js.map": "/color-display/static/js/496.f531e3af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a1544cd.css",
-    "static/js/main.c51e2747.js"
+    "static/js/main.8e986cfe.js"
   ]
 }
